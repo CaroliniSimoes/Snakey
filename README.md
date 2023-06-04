@@ -1,2 +1,2 @@
 # Snakey
- Snake game
+ Jogo da cobrita
